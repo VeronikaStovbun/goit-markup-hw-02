@@ -92,6 +92,7 @@ a {text-decoration: none;}
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;}
     .office{background-color: #fff;}
 .name{
