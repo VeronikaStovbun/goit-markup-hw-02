@@ -25,7 +25,7 @@ a {text-decoration: none;}
 .nav-link{
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 
@@ -34,7 +34,7 @@ a {text-decoration: none;}
 .contacts {font-style: normal;}
 .contacts-link{
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
 
@@ -50,7 +50,7 @@ a {text-decoration: none;}
  .title{
     font-weight: 700;
     font-size: 56px;
-    line-height: 107%;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;}
@@ -61,7 +61,7 @@ a {text-decoration: none;}
     background-color: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
     cursor: pointer;
@@ -72,7 +72,7 @@ a {text-decoration: none;}
 .features-title{
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 
@@ -80,7 +80,7 @@ a {text-decoration: none;}
 .features-title-descr{
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
 
@@ -89,7 +89,7 @@ a {text-decoration: none;}
 .team-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -106,7 +106,7 @@ a {text-decoration: none;}
 .worker-dscrp{
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     
     color: #434455;}
@@ -115,7 +115,7 @@ a {text-decoration: none;}
 .portfolio-pictrs{
     font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -124,7 +124,7 @@ a {text-decoration: none;}
 .example{
     font-weight: 500;
     font-size: 20px;
-    line-height: 120%;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 
@@ -133,7 +133,7 @@ a {text-decoration: none;}
  .example-dscr{ 
 font-weight: 400;
 font-size: 16px;
-line-height: 150%;
+line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
  }
@@ -142,6 +142,6 @@ color: #434455;
 .footer-text{
     font-weight: 400;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;}
